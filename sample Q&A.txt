@@ -1,0 +1,18 @@
+Question: What apple company do
+Answer: I'm sorry! I cannot answer this question!
+
+Question: What was the name of giraffe
+Answer: The giraffe's name was Ginger.
+
+Question: What does giraffe leave
+Answer: Based on the context, the giraffe (Ginger) leaves leaves and buds from the top of the tree for Mickey to eat.
+
+Question: name of the giraffe
+Answer: The giraffe's name is Ginger.
+
+Question: name of the teachers 
+Answer: Based on the provided text, the teachers mentioned are:
+
+*   Prof. Shraddha Parab
+*   Prof. Bandita Singh
+
