@@ -1,10 +1,7 @@
 myenv/
-
 .streamlit/
-
+.env
 how to use.txt
 Q&A.txt
 sample Q&A.txt
 story.pdf
-
-.env

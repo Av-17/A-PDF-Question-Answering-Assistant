@@ -300,8 +300,8 @@ if pdf:
         graph = workflow.compile(checkpointer=checkpointer)
 
         query = st.text_input("Ask a question about the document")
-
-        if query:
+        button = st.button("Send")
+        if query or button:
             with st.spinner("Generating answer..."):
                 input_data = {"question": HumanMessage(content=query)}
                 response = graph.invoke(input=input_data, config={"configurable": {"thread_id": 3}})
